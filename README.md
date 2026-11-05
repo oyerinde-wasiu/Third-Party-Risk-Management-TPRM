@@ -10,6 +10,7 @@ Objectives:
 - Assess authentication, access lifecycle, data retention, and information security governance.
 - Prioritize follow-up questions, remediation evidence, and vendor onboarding decisions.
 - Compare proposed tools with the organization's existing tool inventory to identify possible duplication.
+
   Assessment approach:
 - Business context and tool overlap: Read the vendor request list, business justification, and existing tool inventory.
 - Security evidence review: Evaluated SOC 2 Type II information, penetration testing evidence, information security policies, data retention/deletion, and SSO/MFA capabilities.
